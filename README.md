@@ -6,3 +6,5 @@ The ITart of musical group Uncle Muzz Дядя Музз
 
 
 <a href = 'https://soundcloud.com/uncle-muzz/sets'  target='_blank'>Soundcloud</a>
+
+Киев-Гамбург / Kyiv-Hamburg
