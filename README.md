@@ -6,6 +6,8 @@ The ITart of musical group Uncle Muzz Дядя Музз
 
 <a href = 'https://soundcloud.com/uncle-muzz/sets'  target='_blank'>Soundcloud</a>
 
+<a href = 'https://t.me/unclemuzz'  target='_blank'>Telegram channel</a>
+
 <a href = 'https://www.jamendo.com/artist/506426/dyadya-muzz/albums'  target='_blank'>jamendo.com</a>
 
 <a href = 'https://rutracker.org/forum/viewtopic.php?t=5072692'  target='_blank'>Rutracker.org</a>
