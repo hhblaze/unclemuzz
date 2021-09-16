@@ -1,5 +1,5 @@
 # Дядя Музз / Uncle muzz
-IT & ART by the musical group Uncle Muzz Дядя Музз
+IT & ART by Uncle Muzz Дядя Музз - the music band
 
 
 <a href = 'https://www.youtube.com/user/uncleMuzz/videos'  target='_blank'>YouTube videos</a>
